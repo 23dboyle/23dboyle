@@ -20,9 +20,17 @@ Aspiring financial professional & Future Business Owner
 | --- | --- | --- |
 | To do list | WebApp built on PythonAnywhere using OpenAI | `[Python]` `[Flask]` |
 
+### 📌 Featured Projects
 
+| Pythonanywhere website creation | Running To Do list website | Python, LLM |
+| --- | --- | --- |
+| To do list | WebApp built on PythonAnywhere using OpenAI | `[Python]` `[Flask]` |
 ---
+### 📌 Featured Projects
 
+| Pythonanywhere website creation | Running To Do list website | Python, LLM |
+| --- | --- | --- |
+| To do list | WebApp built on PythonAnywhere using OpenAI | `[Python]` `[Flask]` |
 
 ### 📫 Connect With Me
 
