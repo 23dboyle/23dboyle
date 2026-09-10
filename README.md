@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Devin Boyle 👋
 
-<!--
-**23dboyle/23dboyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring financial professional & Future Business Owner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a  B.S. in Finance & Business Administration at Baldwin Wallace; Expected Graduation: May 2027
+* 🔭 **Current Focus:** Learning Financial Models, Web Development, Python
+* 🌱 **Currently Building:** Capsim Project
+* 💡 **Interests:** Growing Business, Investments, Real Estate  
+* ⚡ **Fun Fact:** Student Athlete, Varsity Football 
+---
+
+### 📌 Featured Projects
+
+| Pythonanywhere website creation | Running To Do list website | Python, LLM |
+| --- | --- | --- |
+| To do list | WebApp built on PythonAnywhere using OpenAI | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** (https://www.linkedin.com/in/devin-boyle-143795292/)
+* **Email:** dboyle23@bw.edu
