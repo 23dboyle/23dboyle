@@ -1,5 +1,6 @@
 # Hi there, I'm Devin Boyle 👋
 
+* dowload my resume [here](https://rawcdn.githack.com/23dboyle/23dboyle/d4e2a87509ff50b676595e0562743a04cd668c78/Resume(2026)%20(1).pdf)
 Aspiring financial professional & Future Business Owner
 
 ---
